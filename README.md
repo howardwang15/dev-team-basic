@@ -5,7 +5,7 @@ Basic tutorials of HTML, CSS, and JavaScript
 
 ### index.html
 
-Small site with different components to see how they interact with one another
+Small site with different components to see how they interact with one another. Clone this repo and open up this file into the browser to pull up the webpage.
 
 
 ### styles.css
